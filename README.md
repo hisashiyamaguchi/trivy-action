@@ -1,3 +1,5 @@
+Note.
+
 # Trivy Action
 
 > [GitHub Action](https://github.com/features/actions) for [Trivy](https://github.com/aquasecurity/trivy)
