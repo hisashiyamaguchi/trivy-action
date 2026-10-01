@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: mokomokomokkon
+  structure:
+    - type: space
+      key: space-1
+      title: mokomokomokkon
+      path: mokomokomokkon
+      default: true
+      content:
+        directory: ./mokomokomokkon
